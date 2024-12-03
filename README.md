@@ -33,3 +33,9 @@ To use this project, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone "https://github.com/DaniyalIAhmed/Algorithms-Project/tree/main"
+   ```
+
+Dated: 20-11-2024
+Members:
+22k-4601
+22k-4449
