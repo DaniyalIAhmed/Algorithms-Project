@@ -32,4 +32,4 @@ To use this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone "https://github.com/DaniyalIAhmed/Algorithms-Project/tree/main"
